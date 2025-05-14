@@ -33,7 +33,8 @@ body {
 
 .profile-pic  {
     border-radius: 50%;
-    width: 150px;
+    width: 200px;
+    height: 180px;
     padding: 6px;
 } 
 
